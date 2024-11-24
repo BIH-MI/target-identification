@@ -32,6 +32,11 @@ This project implements methods described in the following papers:
 
 We acknowledge the authors of these papers for their contributions and recommend referencing their work according to academic standards if you use their metric in your research.
 
+## Funding
+
+This work was, in parts, funded by the German Minstry of Health as part of the KI-FDZ project (grant agreement number 2521DAT01C).
+
+
 ## License
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
